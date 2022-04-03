@@ -1,3 +1,5 @@
+Completed test of ExpertSolidityBootcamp SecurityTest from ExtropyIO
+
 Run 
     ```npm i``` to install the dependencies
     ```npx truffe test``` to run the tests
